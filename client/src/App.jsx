@@ -4,7 +4,7 @@ import Register from './pages/Register'
 import Login from './pages/Login'
 
 import { useEffect } from 'react'
-import Dashboard from './pages/DAshboard'
+import Dashboard from './pages/Dashboard'
 
 
 const App = () => {
