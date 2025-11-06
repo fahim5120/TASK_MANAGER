@@ -8,7 +8,7 @@ const userRoutes=require("./routes/user")
 const taskRoutes=require("./routes/task")
 app.use(
   cors({
-    origin: "http://localhost:5173",  // frontend URL
+    origin: "https://task-manager-client-zfl3.onrender.com",  // frontend URL
     credentials: true,                // cookies send cheyyan
   })
 )
