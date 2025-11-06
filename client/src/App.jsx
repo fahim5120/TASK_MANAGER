@@ -6,6 +6,7 @@ import Login from './pages/Login'
 import { useEffect } from 'react'
 import Dashboard from './pages/DAshboard'
 
+
 const App = () => {
   const navigate = useNavigate()
   useEffect(() => {
